@@ -1,5 +1,5 @@
 # lv722
 
-![](https://github.com/<Github username>/<repo name>/actions/workflows/<workflow name>/badge.svg)
+![](https://github.com/<Github EjnareMaki>/<repo javatestapp>/actions/workflows/<workflow blank.yml>/badge.svg)
 
 Test
