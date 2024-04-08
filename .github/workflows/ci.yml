@@ -6,5 +6,5 @@ on:
       - jenk
   workflow_dispatch:
   jobs:
-  my_first_job:
+  blank.yml:
     runs-on: ubuntu-latest
